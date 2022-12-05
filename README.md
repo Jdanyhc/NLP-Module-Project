@@ -24,6 +24,8 @@ For this reason, we have chosen to take 3 models from the appis page https://rap
 
 To do this, the following steps must be followed for each of the models since we must place our keys and credentials.
 
+**From the tests that I have done, the key that is generated is the same for the account and for all the services on the page, but I would not rule out that it could change, for that reason I would be careful and generate all 3.**
+
 enter the pages:
 
 https://rapidapi.com/gatzuma/api/deep-translate1/

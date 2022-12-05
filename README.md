@@ -2,6 +2,12 @@
 
 ## FIRST TASK:
 
+
+
+
+The following shows the results obtained from the tests carried out with the algorithm taken from hugginface
+![image](https://user-images.githubusercontent.com/99751023/205555200-d0c28334-9675-46c5-a3a2-86c5636c010a.png)
+
 ## SECOND TASK:
 
 In this activity, the objective is based on the retraining of a generic model obtained from the hugginface platform, which allows us to import both datasets and, in this case, models.
@@ -50,3 +56,4 @@ Deep Learning - translator_1
 Translo - translator_2
 ai-translate - translator_3
 
+Note to my teacher: I was right, if it's better to use github, I just needed to use it more often, thanks.

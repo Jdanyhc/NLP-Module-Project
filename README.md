@@ -1,11 +1,8 @@
 # NLP-Module-Project
 
+## FIRST TASK:
 
-
-
-
-
-
+## SECOND TASK:
 
 ## THIRD TASK : 
 In this task we seek to use two models already generated in order to compare the translation capabilities.

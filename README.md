@@ -4,6 +4,17 @@
 
 ## SECOND TASK:
 
+In this activity, the objective is based on the retraining of a generic model obtained from the hugginface platform, which allows us to import both datasets and, in this case, models.
+
+As such, a Named entity recognition (NER) model is sought that basically allows us to recognize the keywords of a text, which is represented in the general understanding of the text, this in itself helps us to be able to detect what events They are important within the information.
+
+Likewise, we have also used a hugginface dataset which consists of Wikipedia articles annotated with LOC (location), PER (person), and ORG (organisation) tags in the IOB2 format. This version corresponds to the balanced train, dev, and test splits of Rahimi et al. (2019), which supports 176 of the 282 languages from the original WikiANN corpus.
+
+Below are the metrics obtained from retraining with the new dataset:
+
+![image](https://user-images.githubusercontent.com/99751023/205552913-f1a716ea-11b4-400b-abb6-feeef375d005.png)
+
+
 ## THIRD TASK : 
 In this task we seek to use two models already generated in order to compare the translation capabilities.
 
